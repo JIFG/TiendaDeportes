@@ -1,0 +1,4 @@
+ID=CR7
+Cantidad=19/10/2020
+Producto=5
+Pago=3860

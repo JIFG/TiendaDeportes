@@ -1,0 +1,4 @@
+ID=009
+Producto=Tenis Prima
+Cantidad=2
+Precio=400

@@ -1,0 +1,4 @@
+ID=Razqui
+Cantidad=19/10/2020
+Producto=9
+Pago=1700

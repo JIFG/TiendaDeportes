@@ -1,0 +1,4 @@
+ID=006
+Producto=playera america
+Cantidad=1
+Precio=1000

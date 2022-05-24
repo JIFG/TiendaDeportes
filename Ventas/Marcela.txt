@@ -1,0 +1,4 @@
+ID=Marcela
+Cantidad=19/10/2020
+Producto=2
+Pago=1001000

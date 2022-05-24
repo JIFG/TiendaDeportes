@@ -1,0 +1,4 @@
+ID=1241
+Producto=Tobillera
+Cantidad=10
+Precio=50

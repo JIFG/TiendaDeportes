@@ -1,0 +1,4 @@
+ID=Angel01
+Cantidad=19/10/2020
+Producto=1
+Pago=1000000

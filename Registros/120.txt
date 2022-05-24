@@ -1,0 +1,4 @@
+ID=120
+Producto=Banda
+Cantidad=10
+Precio=40

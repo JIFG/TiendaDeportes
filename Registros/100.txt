@@ -1,0 +1,4 @@
+ID=100
+Producto=Calcetines
+Cantidad=10
+Precio=50

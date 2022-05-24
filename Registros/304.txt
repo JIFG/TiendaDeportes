@@ -1,0 +1,4 @@
+ID=304
+Producto=Balon Futbol
+Cantidad=24
+Precio=150

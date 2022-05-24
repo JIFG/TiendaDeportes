@@ -1,0 +1,4 @@
+ID=102
+Producto=Espinilleras
+Cantidad=3
+Precio=60

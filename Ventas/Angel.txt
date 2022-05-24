@@ -1,0 +1,4 @@
+ID=Angel
+Cantidad=19/10/2020
+Producto=16
+Pago=1750
